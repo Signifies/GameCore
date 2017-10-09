@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GameCore:jar">
+    <output-path>$PROJECT_DIR$/../../Completed Builds/GameCore</output-path>
+    <root id="archive" name="GameCore.jar">
+      <element id="module-output" name="GameCore" />
+    </root>
+  </artifact>
+</component>

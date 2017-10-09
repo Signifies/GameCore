@@ -1,0 +1,24 @@
+#  # # # # # # # # # # # # # # #
+# Game Core configuration file #
+# # # # # # # # # # # # # # # #
+#
+# Messages
+Messages:
+  no-perms: ""
+  mention-format: "&7%player% &a@Mentioned &7 you&f!"
+  messaging:
+    format:
+      from: "&6[&4PM&6]&r &6From: &a%sender% &f%msg%"
+      to: "&6[&4PM&6]&r &6To: &c%target% &f%msg%"
+#
+#
+# Chat Settings -> This may be MODIFIED or set to per world specifics using builds world Management System.
+Chat:
+  Enabled: true
+  msg: "&7Chat has been set to &a%value%&7."
+  chat-disabled: "&7The chat has been &asilenced."
+  no-permission: "&cYou don't have permission to speak here. &4/msg only."
+#
+#
+# At the moment this is all of the shit I can think of.
+

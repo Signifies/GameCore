@@ -1,0 +1,14 @@
+name: GameCore
+main: me.ES.com.GameCore
+version: 0.0.1
+description: A core that hosts all MC games, such as CTF.
+website: www.github.com/ES359/GameCore
+authors: [ES, SatelliteRising]
+depend: [Build]
+softdepend: [PermissionsEx]
+
+commands:
+  gamecore:
+    description: Main command for gamecore
+    aliases: [gc,gcore]
+
